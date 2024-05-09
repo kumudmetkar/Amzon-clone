@@ -1,1 +1,1 @@
-# Amzon-clone
+# Amazon-clone
